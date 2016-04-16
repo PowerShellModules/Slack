@@ -1,2 +1,1 @@
-# Slack
-Slack Module
+This is a Readme file for Slack
